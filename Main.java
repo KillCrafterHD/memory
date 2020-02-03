@@ -9,7 +9,7 @@ public class Main
 {
     // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     private int x;
-
+fddfs
     /**
      * Konstruktor für Objekte der Klasse Main
      */
